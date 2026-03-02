@@ -109,7 +109,7 @@ project/
 ### 1️⃣ Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/s-chistogo-lista.git
+git clone https://github.com/YanaFicus/s-chistogo-lista-main.git
 ```
 
 ###2️⃣ Запуск проекта
